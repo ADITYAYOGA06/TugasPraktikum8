@@ -1,0 +1,21 @@
+D:\Coba Coding\C#\Pemrograman Lanjut\TugasPrak8\CalculatorAppTugas\bin\Debug\CalculatorAppTugas.exe.config
+D:\Coba Coding\C#\Pemrograman Lanjut\TugasPrak8\CalculatorAppTugas\bin\Debug\CalculatorAppTugas.exe
+D:\Coba Coding\C#\Pemrograman Lanjut\TugasPrak8\CalculatorAppTugas\bin\Debug\CalculatorAppTugas.pdb
+D:\Coba Coding\C#\Pemrograman Lanjut\TugasPrak8\CalculatorAppTugas\obj\Debug\CalculatorAppTugas.csprojAssemblyReference.cache
+D:\Coba Coding\C#\Pemrograman Lanjut\TugasPrak8\CalculatorAppTugas\obj\Debug\CalculatorAppTugas.FormHasilPerhitungan.resources
+D:\Coba Coding\C#\Pemrograman Lanjut\TugasPrak8\CalculatorAppTugas\obj\Debug\CalculatorAppTugas.Properties.Resources.resources
+D:\Coba Coding\C#\Pemrograman Lanjut\TugasPrak8\CalculatorAppTugas\obj\Debug\CalculatorAppTugas.csproj.GenerateResource.cache
+D:\Coba Coding\C#\Pemrograman Lanjut\TugasPrak8\CalculatorAppTugas\obj\Debug\CalculatorAppTugas.csproj.CoreCompileInputs.cache
+D:\Coba Coding\C#\Pemrograman Lanjut\TugasPrak8\CalculatorAppTugas\obj\Debug\CalculatorAppTugas.exe
+D:\Coba Coding\C#\Pemrograman Lanjut\TugasPrak8\CalculatorAppTugas\obj\Debug\CalculatorAppTugas.pdb
+D:\Coba Coding\C#\Pemrograman Lanjut\TugasPrak8\CalculatorAppTugas\obj\Debug\CalculatorAppTugas.HasilPerhitungan.resources
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 8\TugasPrak8\CalculatorAppTugas\bin\Debug\CalculatorAppTugas.exe.config
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 8\TugasPrak8\CalculatorAppTugas\bin\Debug\CalculatorAppTugas.exe
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 8\TugasPrak8\CalculatorAppTugas\bin\Debug\CalculatorAppTugas.pdb
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 8\TugasPrak8\CalculatorAppTugas\obj\Debug\CalculatorAppTugas.HasilPerhitungan.resources
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 8\TugasPrak8\CalculatorAppTugas\obj\Debug\CalculatorAppTugas.FormHasilPerhitungan.resources
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 8\TugasPrak8\CalculatorAppTugas\obj\Debug\CalculatorAppTugas.Properties.Resources.resources
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 8\TugasPrak8\CalculatorAppTugas\obj\Debug\CalculatorAppTugas.csproj.GenerateResource.cache
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 8\TugasPrak8\CalculatorAppTugas\obj\Debug\CalculatorAppTugas.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 8\TugasPrak8\CalculatorAppTugas\obj\Debug\CalculatorAppTugas.exe
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Materi\Pertemuan 8\TugasPrak8\CalculatorAppTugas\obj\Debug\CalculatorAppTugas.pdb
