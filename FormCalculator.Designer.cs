@@ -67,6 +67,7 @@ namespace CalculatorAppTugas
             // 
             // cmbOperasi
             // 
+            this.cmbOperasi.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbOperasi.FormattingEnabled = true;
             this.cmbOperasi.Items.AddRange(new object[] {
             "Penjumlahan",
